@@ -1,0 +1,287 @@
+#search human like writign tips in openai chgpt to find the example.
+human text features:
+The sentence uses a straightforward declarative structure and avoids figurative language to inform the reader about the content of the figure and the upcoming sections
+
+The sentence uses simple and direct language, with a clear subject-verb-object structure, to convey factual information about DBSCAN
+
+
+AI features:
+Here’s the complete list of all the **“Why we think it’s AI:”** items exactly as you provided them — nothing added or reworded:
+
+---
+
+**1.**
+Impersonal Tone
+The phrase 'will form our third contribution' employs indirect speech through the use of the future tense, maintaining an impersonal tone.
+
+Lacks Creative Grammar
+The grammatical structure is correct but lacks creative deviations typical of human writing.
+
+Robotic Formality
+The writing style is formal and polished, focusing on clarity and orderliness, but may appear robotic due to lack of variation.
+
+Mechanical Precision
+Precise and technical word choice prioritizes clarity and specificity, avoiding colloquial language.
+
+Lacks Creativity
+The writing is precise and consistent but lacks the richness and creativity of human writing.
+
+Impersonal Tone
+The text maintains a formal and academic tone, using indirect speech and paraphrasing, resulting in an impersonal tone.
+
+Formulaic Organization
+The text is highly structured and organized, with clear headings and sections to enhance readability and follows a logical progression.
+
+---
+
+**2.**
+Lacks Creativity
+The sentence is straightforward and lacks the richness of human writing, relying on standard technical vocabulary and sentence structure.
+
+Lacks Creative Grammar
+The sentence adheres to conventional grammatical rules, lacking unusual or creative sentence structures that are often found in human writing.
+
+Robotic Formality
+The sentence structure is orderly and clear, with a logical progression of ideas, but the language lacks variation in vocabulary and syntax.
+
+Mechanical Precision
+The term 'Algorithm Selection' is a precise and technical word choice, contributing to the overall clarity and specificity of the sentence.
+
+Impersonal Tone
+The phrase 'could be a promising direction' uses indirect speech, contributing to an impersonal tone by avoiding direct assertion.
+
+---
+
+**3.**
+Robotic Formality
+The sentence uses a formal and polished phrase 'bespoke heuristic' which prioritizes clarity and orderliness.
+
+Lacks Creative Grammar
+The sentence uses a correct grammatical structure but lacks creative deviations with a straightforward 'is a bespoke heuristic' phrase.
+
+---
+
+**4.**
+Robotic Formality
+The sentence uses a formal and polished structure 'For irregular or elongated drift shapes' and focuses on clarity and orderliness by listing specific examples.
+
+Mechanical Writing
+The sentence lacks literary devices, instead relying on straightforward technical descriptions 'irregular or elongated drift shapes' and 'geometric centroid'.
+
+Mechanical Precision
+The sentence uses precise and technical words 'irregular', 'elongated', 'geometric centroid', and 'void part' to prioritize clarity and specificity.
+
+---
+
+**5.**
+Overly Formal
+The sentence employs a complex and formal construction 'In this contribution, we address the limitations' which feels overly formal and lacking spontaneity.
+
+Mechanical Writing
+The sentence is written in a mechanical and unimaginative style, focusing on technical details 'heuristic', 'SAR Optimizer', and 'clustering techniques' without literary flourishes.
+
+Mechanical Precision
+The sentence employs precise and technical terms 'heuristic', 'SAR Optimizer', 'centroid point', 'clustering techniques', and 'centroid finding methods' to convey specific ideas.
+
+Impersonal Tone
+The sentence uses indirect speech 'In this contribution, we address' and paraphrasing 'by using a more advanced initial centroid point' resulting in an impersonal tone.
+
+---
+
+**6.**
+Robotic Formality
+The sentence is clear and orderly, focusing on the function of the optimizer and its goal.
+
+Lacks Creative Grammar
+The sentence uses a correct but unvaried grammatical structure, without creative deviations, which is typical of formal and polished writing.
+
+Impersonal Tone
+The sentence maintains an impersonal tone by using passive voice and formal language, such as 'is responsible for guiding'.
+
+Task-Oriented
+The sentence follows a linear and task-oriented structure, directly addressing the function of the optimizer and its goal.
+
+Overly Formal
+The sentence employs a formal and elaborate sentence structure, with a main clause and a subordinate clause, which creates a sense of formality and lack of spontaneity.
+
+Mechanical Precision
+The sentence employs precise and technical word choice, such as 'optimizer', 'evaluator', and 'search plan', which prioritizes clarity and specificity.
+
+---
+
+**7.**
+Mechanical Transitions
+The sentence employs complex grammatical structures, featuring subordinate clauses and transitional phrases like 'By beginning from', to link ideas.
+
+Formulaic Flow
+The phrase 'By beginning from' acts as a transitional phrase, explaining how the algorithm benefits from the centroid-based approach.
+
+Technical Jargon
+The sentence's complex structure, including subordinate clauses and technical terms like 'mathematically determined' and 'optimal or near-optimal solutions', presents nuanced arguments.
+
+---
+
+**8.**
+Lacks Creativity
+The sentence employs a precise and consistent phrase 'When the algorithm begins from a better mathematically defined center' which prioritizes clarity but lacks creativity.
+
+---
+
+**9.**
+Overly Formal
+The sentence uses a formal and structured phrase 'is suitable when' which contributes to the overly formal tone.
+
+Lacks Creativity
+The sentence uses a straightforward and consistent structure 'This method is suitable when' which lacks the richness and creativity of human writing.
+
+Lacks Creative Grammar
+The sentence follows a standard grammatical structure 'This method is suitable when' without creative deviations typical of human writing.
+
+---
+
+**10.**
+Impersonal Tone
+The use of 'comprehensive taxonomy' and 'depicted' reflects an impersonal and formal tone typical of academic writing.
+
+---
+
+**11.**
+Mechanical Transitions
+The sentence uses 'To control the depth of this hierarchy' as a transitional phrase to connect ideas.
+
+Technical Jargon
+The sentence uses multiple clauses to convey detailed information about the parameter $m_{cl}$.
+
+Mechanical Precision
+The use of 'optional parameter, $m_{cl}$' and 'minimum number of objects' is precise and technical.
+
+---
+
+**12.**
+Robotic Formality
+The sentence is formal and polished, focusing on clarity with precise terms like 'optional parameter' and 'controls the hierarchy's depth.'
+
+Sophisticated Clarity
+Precise word choice like 'optional parameter' and 'controls the hierarchy's depth' enhances clarity and sophistication.
+
+Mechanical Precision
+Technical terms like 'optional parameter' and 'minimum number of objects per cluster' ensure clarity and specificity.
+
+---
+
+**13.**
+HDBSCAN addresses this hurdle by establishing a hierarchical structure of clusters with varying densities.
+
+Robotic Formality
+The sentence is clear and orderly, focusing on the function of HDBSCAN without variation in tone.
+
+Lacks Creativity
+The sentence is precise and consistent but lacks creative language, focusing on technical description.
+
+Impersonal Tone
+The phrase 'addresses this hurdle' uses indirect speech to maintain a formal and impersonal tone.
+
+Mechanical Precision
+The technical term 'hierarchical structure of clusters' is used for clarity and specificity.
+
+---
+
+**14.**
+HDBSCAN is an extension of the DBSCAN algorithm.
+
+Overly Formal
+The sentence uses a formal and polished structure, lacking spontaneity, as evident from the straightforward and simple declaration.
+
+Lacks Creative Grammar
+The sentence's grammatical structure is correct but lacks creative deviations typical of human writing, as evident from its straightforward and simple declaration.
+
+---
+
+**15.**
+However, density-based clustering methods encounter limitations in handling large datasets due to dimensionality concerns.
+
+Lacks Creativity
+The sentence's formal and structured language, including the phrase 'encounter limitations', creates a sense of precision and consistency but lacks imaginative language.
+
+Lacks Creative Grammar
+The sentence's formal and structured language, including the phrase 'encounter limitations', follows a correct grammatical structure but lacks creative variations in sentence structure.
+
+Impersonal Tone
+The sentence's use of indirect speech, such as the phrase 'encounter limitations', and formal vocabulary, like 'dimensionality concerns', contributes to its impersonal tone.
+
+---
+
+**16.**
+The use of spatial indexes to determine data point neighborhoods has reduced model complexity from O(n^2) to O(n log n) compared to other methods.
+
+Predictable Syntax
+The sentence's declarative structure and repetitive use of technical terms, such as 'spatial indexes' and 'model complexity', contribute to its predictable pattern.
+
+Overly Formal
+The sentence's formal vocabulary and complex sentence structure, such as the use of technical terms like 'spatial indexes' and 'model complexity', contribute to its overly formal tone.
+
+Mechanical Writing
+The sentence's lack of literary devices, such as metaphors or similes, and reliance on technical language contributes to its mechanical tone.
+
+Lacks Creativity
+The sentence's precise and consistent language, including technical terms like 'spatial indexes' and 'model complexity', lacks the richness and creativity of human writing.
+
+Lacks Creative Grammar
+The sentence's correct grammatical structure, including the use of complex sentence structures, lacks creative deviations typical of human writing.
+
+Robotic Formality
+The sentence's formal and polished language, including technical terms like 'spatial indexes' and 'model complexity', creates a sense of clarity and orderliness.
+
+Mechanical Precision
+The sentence's precise and technical word choice, including terms like 'spatial indexes' and 'model complexity', prioritizes clarity and specificit.
+
+---
+
+**17.**
+As datasets have grown larger, the need to handle them in fields like data mining has spurred the development of new HC techniques, significantly enhancing clustering performance.
+
+Formulaic Flow
+The word 'As' serves as a transitional phrase, introducing a cause-and-effect relationship and maintaining a cohesive flow of information.
+
+Technical Jargon
+The sentence uses a complex structure with multiple clauses, conveying detailed information and nuanced arguments using technical jargon like 'data mining' and 'clustering performance'.
+
+Mechanical Transitions
+The sentence uses a subordinate clause 'As datasets have grown larger' and a transitional phrase 'significantly', connecting ideas smoothly.
+
+---
+
+**18.**
+Throughout this process, object probabilities within each distribution are computed, and the probabilistic distribution parameters are adjusted in the Maximization Step to maximize the expected likelihood of each cluster object.
+
+Sophisticated Clarity
+The sentence employs precise and technical terms like 'object probabilities' and 'probabilistic distribution parameters' to convey complex ideas clearly, but the sentence structure is formal and affects natural flow.
+
+Robotic Formality
+The sentence uses a formal and structured phrase 'Throughout this process' to describe a procedure, which contributes to a polished but robotic tone.
+
+Overly Formal
+The sentence employs a formal and technical phrase 'Throughout this process' to describe a procedure, which feels overly formal and lacking spontaneity.
+
+Mechanical Transitions
+The sentence employs a complex grammatical structure with transitional phrases like 'Throughout this process' to connect ideas smoothly.
+
+Technical Jargon
+The sentence employs a complex sentence structure with multiple clauses, using technical jargon like 'object probabilities' and 'probabilistic distribution parameters', to convey nuanced arguments.
+
+Mechanical Precision
+The sentence employs precise and technical terms like 'object probabilities' and 'probabilistic distribution parameters' to convey complex ideas clearly.
+
+---
+
+**19.**
+The EM algorithm iteratively performs these steps, starting with initial random parameter values such as the mean and standard deviation, until convergence or a sufficiently small change occurs.
+
+Lacks Creativity
+The sentence uses a precise and consistent structure, but lacks creative language or variations in sentence structure, resulting in a lack of richness and creativity.
+
+Lacks Creative Grammar
+The sentence follows a correct grammatical structure, but lacks creative deviations typical of human writing, such as varied sentence lengths or unexpected word choices.
+
+Impersonal Tone
+The sentence uses indirect speech and paraphrasing with phrases like 'starting with initial random parameter values' to maintain a formal and academic tone.
